@@ -132,25 +132,25 @@ export const TIMELINE_EVENTS = [
 ];
 
 export const GALLERY_PHOTOS = [
-  { url: img1st, caption: 'Our favourite moment', rotate: '-2deg' },
-  { url: img2nd, caption: 'Just us two', rotate: '1.5deg' },
-  { url: img3rd, caption: 'Golden hour love', rotate: '-1deg' },
-  { url: img4th, caption: 'Together always', rotate: '2deg' },
-  { url: img5th, caption: 'Lost in your eyes', rotate: '-1.5deg' },
-  { url: img6th, caption: 'Our happiest day', rotate: '1deg' },
-  { url: img7th, caption: 'Forever in my heart', rotate: '-2deg' },
-  { url: img8th, caption: 'You and me, always', rotate: '1.5deg' },
+  { url: img1st, caption: 'Forever yours', rotate: '-2deg' },
+  { url: img2nd, caption: 'You and me since we met', rotate: '1.5deg' },
+  { url: img3rd, caption: 'My favorite person', rotate: '-1deg' },
+  { url: img4th, caption: 'Always my home', rotate: '2deg' },
+  { url: img5th, caption: 'Where my heart belongs', rotate: '-1.5deg' },
+  { url: img6th, caption: 'Love looks like this', rotate: '1deg' },
+  { url: img7th, caption: 'Still choosing you', rotate: '-2deg' },
+  { url: img8th, caption: 'My safe place', rotate: '1.5deg' },
 ];
 
 export const GALLERY_PHOTOS_MORE = [
-  { url: img9th, caption: 'Endless love', rotate: '-1.5deg' },
-  { url: img10th, caption: 'My forever', rotate: '2deg' },
-  { url: img11th, caption: 'Sweetest smile', rotate: '-1deg' },
-  { url: img12th, caption: 'Heart to heart', rotate: '1.5deg' },
-  { url: img13th, caption: 'Dancing souls', rotate: '-2deg' },
-  { url: img14th, caption: 'Starlit nights', rotate: '1deg' },
-  { url: img15th, caption: 'Soulmates', rotate: '-1.5deg' },
-  { url: img16th, caption: 'Love eternal', rotate: '2deg' },
+  { url: img9th, caption: 'Us, in every lifetime', rotate: '-1.5deg' },
+  { url: img10th, caption: 'My forever and always', rotate: '2deg' },
+  { url: img11th, caption: 'Your smile, my peace', rotate: '-1deg' },
+  { url: img12th, caption: 'Heart to heart, always', rotate: '1.5deg' },
+  { url: img13th, caption: 'Two souls, one love', rotate: '-2deg' },
+  { url: img14th, caption: 'In love with you daily', rotate: '1deg' },
+  { url: img15th, caption: 'My answered prayer', rotate: '-1.5deg' },
+  { url: img16th, caption: 'Love without end', rotate: '2deg' },
 ];
 
 export const REELS = [

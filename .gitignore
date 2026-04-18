@@ -11,6 +11,15 @@ dist
 dist-ssr
 *.local
 
+# junk / accidental drops
+src/FP2_Llabres/
+src/android-sdk-platform-tools-adb-37-0-0/
+src/template106/
+
+# large/random installers & docs
+*.exe
+*.pptx
+
 .vscode/*
 !.vscode/extensions.json
 .idea
